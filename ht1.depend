@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1644285181 source:/home/david/Desktop/ht1/app.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
+1644254575 source:/home/david/Desktop/ht1/main.cpp
+	<iostream>
+	"app.cpp"
+
+1644285207 /home/david/Desktop/ht1/app.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
